@@ -18,3 +18,6 @@ Se establecieron 3 objetivos principales para el proyecto:
 + Para mayores grados de n el modelo pierde precisión.
 + Para valores superiores a 7 en la regresión el modelo se desestabiliza.
 
+## Enlaces
+el análisis completo se puede encontrar en la siguiente liga:
+<a href = "https://drive.google.com/drive/u/2/folders/1n0mPXI1z_IoL-bi-d1KVwEaW7A91k9EY"> Pronóstico de precio en seguros médicos
